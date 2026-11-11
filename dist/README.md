@@ -75,8 +75,16 @@ Cloudflare Pages: choose a static/no-framework project, no build command, output
 
 ## Privacy and security
 
-All learning state uses the versioned `parola.progress.v1` local-storage key. Writes are debounced and flushed on page hide. An in-memory fallback warns when storage is unavailable. JSON import validates the supported schema and asks before replacement. User content is escaped before HTML rendering. The CSP restricts scripts, fonts, media, and requests to this origin; inline styling is permitted for progress bars, while inline scripts and event attributes are blocked. Speech synthesis itself is managed by the operating system/browser; choose a local voice to avoid its remote speech service.
+Each learner has an isolated versioned local-storage record: `parola.progress.saif.v1` for Arabic and `parola.progress.fadi.v1` for Italian, plus a recovery copy. The original `parola.progress.v1` key is preserved for migration. The shared password screen is a client-side gate rather than server-enforced authentication. Writes are debounced and flushed on page hide. An in-memory fallback warns when storage is unavailable. JSON import validates the supported schema and asks before replacement. User content is escaped before HTML rendering. The CSP restricts scripts, fonts, media, and requests to this origin; inline styling is permitted for progress bars, while inline scripts and event attributes are blocked. Speech synthesis itself is managed by the operating system/browser; choose a local voice to avoid its remote speech service.
 
 ## Verification
 
 `npm test` checks interval scheduling, lapse behavior, strict/forgiving matching, deterministic challenges, data volumes, unique IDs, valid theme references, backup round-trips, and absence of hardcoded runtime service URLs. Browser verification and limits are recorded in `QA.md`.
+
+## Shared password, learners, and Netlify
+
+Enter the shared password, then select Saif for Arabic or Fadi for Italian. Use Switch learner to change profiles and Lock app to return to the entry screen. Progress saves automatically per learner and survives normal reloads and browser restarts on the same site/browser. Protect saved progress in Settings requests persistent storage when supported; exported JSON backups remain essential because clearing site data or changing domains removes access to local saves. No automatic cross-device synchronization is provided. Importing or resetting affects only the selected learner.
+
+For Netlify, import the GitHub repository, leave the build command empty, and publish dist. The root netlify.toml includes the static publish directory and update headers. Export progress from localhost or your old domain, then select the matching learner on Netlify and import that backup.
+
+To change the shared password, run python tools/set-password.py from the complete source project. It stores a salted verifier and refreshes the offline cache, not a plaintext password. Static content remains inspectable; this gate is for a casual shared study space, not private-data security.

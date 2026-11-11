@@ -6,6 +6,25 @@
 
 Build a daily habit, collect words you care about, and pick up where you left off. Your learning progress stays in your browser, with JSON backups for moving between devices. The app runs as plain HTML, CSS, and JavaScript: no build step, account, backend, API key, or subscription is required.
 
+## Our shared study space
+
+Enter the shared password, then choose **“Who is learning today?”**:
+
+| Learner | Language | Progress |
+| --- | --- | --- |
+| **Saif** | Arabic (MSA) | Saif’s lessons, cards, XP, streak, decks, and preferences |
+| **Fadi** | Italian | Fadi’s lessons, cards, XP, streak, decks, and preferences |
+
+Use **Switch learner** in the header to change people, or **Lock app** to return to the password screen. The selected learner stays active across reloads in the same tab; a new session starts with the password entrance. Each profile’s language stays fixed to its learning track.
+
+Progress saves automatically in separate browser-storage records, including a redundant recovery copy. **Settings → Protect saved progress** requests persistent browser storage when supported. Exported backups are named for the learner, and importing or resetting one learner never replaces the other’s save.
+
+**This is a lightweight client-side password gate, not server-enforced authentication.** A static app’s downloaded code and learning data can be inspected or the gate bypassed. The shared password is stored as a salted verifier rather than plaintext. Keep genuinely sensitive information out of the static bundle. The two learner profiles separate study progress; they are not separate authenticated accounts.
+
+Persistence is local to the same browser and site address, not cloud synchronization. Moving from localhost to Netlify, changing the Netlify domain, or moving devices requires exporting and importing a backup. Clearing browser site data or using private browsing can remove local saves even when persistent storage is requested. Existing shared saves are retained and their language progress is copied into the matching learner on first selection.
+
+![Shared learner selection for Saif and Fadi](docs/images/learner-selection.jpg)
+
 ![Parola dashboard showing the learning path, daily goal, streak, vocabulary, and practice activities](docs/images/dashboard.jpg)
 
 ## What you can do
@@ -104,7 +123,16 @@ The repository contains a [GitHub Pages workflow](.github/workflows/pages.yml) t
 
 The workflow is manually triggered; pushing source alone does not publish a separate public app. Asset URLs, hash routes, and the service-worker scope are relative, so repository subpaths work without rewrite rules.
 
-For Netlify or Cloudflare Pages, use **`dist` as the publish/output directory**, with no build command. The [development guide](docs/DEVELOPMENT.md) includes more deployment options.
+## Deploy to Netlify
+
+1. Import `saifalushi1/parola` in Netlify and deploy the `main` branch.
+2. Leave the **build command empty** and use **`dist` as the publish directory**. The included [netlify.toml](netlify.toml) sets the publish directory and fresh-update headers automatically.
+3. Deploy, open the HTTPS site, enter the shared password, and choose Saif or Fadi.
+4. On each device, open Settings and use **Protect saved progress**, then download a JSON progress backup after important study sessions.
+
+No environment variables or database are needed. Keep the production site address stable so its browser saves stay associated with the same origin. Netlify deploy previews and production URLs have separate browser storage. Export from the old URL before moving your study progress.
+
+For Cloudflare Pages, also use `dist` with no build command. The [development guide](docs/DEVELOPMENT.md) includes more deployment options. See [Netlify’s configuration reference](https://docs.netlify.com/build/configure-builds/file-based-configuration/) for hosting details and [browser persistent storage](https://developer.mozilla.org/en-US/docs/Web/API/StorageManager/persist) for storage behavior.
 
 ## Add words or another language
 

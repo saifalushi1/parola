@@ -25,3 +25,14 @@ Checked in the connected Chromium preview:
 ## Limits
 
 Real microphone capture requires the user's permission and was not activated. Actual Italian/Arabic voice playback could not be verified because those voices are not installed in the preview browser. Safari/iOS, Firefox, Android installation, and platform-specific TTS have not been tested. No native-speaker audio is bundled. Native linguistic review remains outstanding, as listed in REVIEW-QUEUE.tsv. Optional dialect tracks/handwriting and comprehensive Arabic conjugations are outside this starter content release.
+
+## Shared entry and learner profiles
+
+- Tested wrong-password rejection, correct-password entry, learner selection, Lock app, return-to-password, and locked deep links.
+- Verified Saif opens Arabic and Fadi opens Italian, including after a reload.
+- Reviewed a Saif flashcard, switched to Fadi, reloaded, then switched back: Saif retained 5 XP and Fadi retained his existing 10 XP.
+- Entry and learner screens fit a 360px viewport without horizontal overflow.
+- Stopped the HTTP server, cold-reloaded the password screen, unlocked it offline, selected Fadi, and verified his saved progress.
+- Settings reports persistent-storage availability; the browser permission request is left for the learner to opt into.
+- Added automated checks for profile isolation, legacy migration, browser restart, recovery from a corrupt primary save, backup ownership, reset isolation, denied-storage fallback, and password verification.
+- Shared entry is a client-side convenience gate, not server-enforced authentication. Progress is per browser/site, with no cloud sync.
