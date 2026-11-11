@@ -1,0 +1,16 @@
+import {state} from './store.js';
+let voices=[];let player;let lastObject;let recorder;let stream;let recordingUrl;
+export function updateVoices(){voices=globalThis.speechSynthesis?.getVoices()??[];document.dispatchEvent(new Event('parola:voices'));}
+if(globalThis.speechSynthesis){speechSynthesis.addEventListener('voiceschanged',updateVoices);updateVoices();}
+export function availableVoices(language){return voices.filter(v=>v.lang.toLowerCase().startsWith(language.code==='ar'?'ar':language.code));}
+export function stop(){player?.pause();globalThis.speechSynthesis?.cancel();}
+export async function speak(item,language,slow=false,notify=()=>{}){
+ stop();const speed=slow?.7:Number(state().settings.speed)||1;const path=item.audio||`audio/${language.code}/${item.id}.wav`;
+ try{const response=await fetch(path,{method:'HEAD'});if(response.ok&&response.headers.get('content-type')?.startsWith('audio/')){player=new Audio(path);player.playbackRate=speed;await player.play();return;}}catch{}
+ const list=availableVoices(language);if(list.length&&globalThis.speechSynthesis){const voice=list.find(v=>v.voiceURI===state().settings.voices[language.code])??list.find(v=>v.lang===language.locale)??list[0];lastObject=new SpeechSynthesisUtterance(item.target);lastObject.voice=voice;lastObject.lang=voice.lang;lastObject.rate=speed;lastObject.onerror=e=>{if(!['interrupted','canceled'].includes(e.error))notify('Audio could not play. Use the pronunciation guide or install an offline voice.');};speechSynthesis.speak(lastObject);return;}
+ notify(`No ${language.name} voice available. ${item.transliteration||item.ipa||item.target} · Install a voice in device speech settings.`);document.dispatchEvent(new CustomEvent('parola:noaudio',{detail:language.name}));
+}
+export function sound(correct){if(!state().settings.sounds)return;try{const ctx=new (window.AudioContext||window.webkitAudioContext)();const o=ctx.createOscillator(),g=ctx.createGain();o.connect(g);g.connect(ctx.destination);o.frequency.value=correct?650:220;g.gain.setValueAtTime(.04,ctx.currentTime);g.gain.exponentialRampToValueAtTime(.001,ctx.currentTime+.15);o.start();o.stop(ctx.currentTime+.16);o.onended=()=>ctx.close();}catch{}}
+export async function toggleRecord(onStop){if(recorder?.state==='recording'){recorder.stop();return false;}if(!navigator.mediaDevices?.getUserMedia||!window.MediaRecorder)throw Error('Recording needs HTTPS or localhost and a browser with microphone support.');stream=await navigator.mediaDevices.getUserMedia({audio:true});const chunks=[];recorder=new MediaRecorder(stream);recorder.ondataavailable=e=>chunks.push(e.data);recorder.onstop=()=>{stream.getTracks().forEach(t=>t.stop());if(recordingUrl)URL.revokeObjectURL(recordingUrl);recordingUrl=URL.createObjectURL(new Blob(chunks,{type:recorder.mimeType}));onStop(recordingUrl);};recorder.start();return true;}
+export function endRecording(){if(recorder?.state==='recording')recorder.stop();stream?.getTracks().forEach(t=>t.stop());}
+export async function downloadAudio(items,language,onProgress){const cache=await caches.open('parola-audio-v1');let n=0;for(const i of items){const path=i.audio||`audio/${language.code}/${i.id}.wav`;try{const r=await fetch(path);if(r.ok&&r.headers.get('content-type')?.startsWith('audio/')){await cache.put(path,r);n++;}}catch{}onProgress?.(n);}return n;}

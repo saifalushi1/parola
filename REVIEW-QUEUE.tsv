@@ -1,0 +1,655 @@
+ID	Language	Target or topic	English	File	Review focus
+it-verbs-025	it	correre	run	verbs.json	Check conjugation
+ar-adjectives-001	ar	كَبِير	big	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-002	ar	صَغِير	small	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-003	ar	جَيِّد	good	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-004	ar	سَيِّئ	bad	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-005	ar	جَدِيد	new	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-006	ar	قَدِيم	old (object)	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-007	ar	حَارّ	hot	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-008	ar	بَارِد	cold	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-009	ar	جَمِيل	beautiful	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-010	ar	قَبِيح	ugly	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-011	ar	سَهْل	easy	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-012	ar	صَعْب	difficult	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-013	ar	سَرِيع	fast	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-014	ar	بَطِيء	slow	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-015	ar	طَوِيل	long	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-016	ar	قَصِير	short	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-017	ar	سَعِيد	happy	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-018	ar	حَزِين	sad	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-019	ar	غَنِيّ	rich	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-020	ar	فَقِير	poor	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-021	ar	نَظِيف	clean	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-022	ar	وَسِخ	dirty	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-023	ar	قَوِيّ	strong	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-024	ar	ضَعِيف	weak	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-025	ar	قَرِيب	near	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-026	ar	بَعِيد	far	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-027	ar	غَالٍ	expensive	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-028	ar	رَخِيص	cheap	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-029	ar	مُمْتَلِئ	full	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-030	ar	فَارِغ	empty	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-031	ar	مَفْتُوح	open	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-032	ar	مُغْلَق	closed	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-033	ar	صَحِيح	right (correct)	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-034	ar	خَاطِئ	wrong	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-035	ar	مُتْعَب	tired	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-036	ar	مَشْغُول	busy	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-037	ar	جَاهِز	ready	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-038	ar	مُهِمّ	important	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-039	ar	مُمْكِن	possible	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-adjectives-040	ar	مُخْتَلِف	different	adjectives.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-01	ar	ا	alif	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-02	ar	ب	baaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-03	ar	ت	taaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-04	ar	ث	thaaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-05	ar	ج	jiim	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-06	ar	ح	Haaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-07	ar	خ	khaaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-08	ar	د	daal	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-09	ar	ذ	dhaal	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-10	ar	ر	raaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-11	ar	ز	zaay	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-12	ar	س	siin	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-13	ar	ش	shiin	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-14	ar	ص	Saad	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-15	ar	ض	Daad	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-16	ar	ط	Taaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-17	ar	ظ	DHaaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-18	ar	ع	ʿayn	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-19	ar	غ	ghayn	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-20	ar	ف	faaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-21	ar	ق	qaaf	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-22	ar	ك	kaaf	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-23	ar	ل	laam	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-24	ar	م	miim	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-25	ar	ن	nuun	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-26	ar	ه	haaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-27	ar	و	waaw	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-letter-28	ar	ي	yaaʾ	alphabet.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-001	ar	أَنَا	I	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-002	ar	أَنْتَ	you (singular)	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-003	ar	هُوَ	he	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-004	ar	هِيَ	she	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-005	ar	نَحْنُ	we	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-006	ar	أَنْتُمْ	you (plural)	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-007	ar	هُمْ	they	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-008	ar	مَنْ	who	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-009	ar	مَا	what	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-010	ar	أَيْنَ	where	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-011	ar	مَتَى	when	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-012	ar	لِمَاذَا	why	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-013	ar	كَيْفَ	how	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-014	ar	فِي	in	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-015	ar	مِنْ	from	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-016	ar	إِلَى	to	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-017	ar	مَعَ	with	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-018	ar	وَ	and	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-019	ar	لَكِنْ	but	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-basics-020	ar	لِأَنَّ	because	basics.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-001	ar	أَحْمَر	red	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-002	ar	أَزْرَق	blue	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-003	ar	أَخْضَر	green	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-004	ar	أَصْفَر	yellow	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-005	ar	أَبْيَض	white	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-006	ar	أَسْوَد	black	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-007	ar	بُرْتُقَالِيّ	orange (color)	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-008	ar	وَرْدِيّ	pink	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-009	ar	بُنِّيّ	brown	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-colors-010	ar	رَمَادِيّ	gray	colors.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-001	ar	الاِثْنَيْن	Monday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-002	ar	الثُّلَاثَاء	Tuesday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-003	ar	الْأَرْبِعَاء	Wednesday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-004	ar	الْخَمِيس	Thursday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-005	ar	الْجُمُعَة	Friday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-006	ar	السَّبْت	Saturday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-007	ar	الْأَحَد	Sunday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-008	ar	يَنَايِر	January	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-009	ar	فِبْرَايِر	February	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-010	ar	مَارِس	March	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-011	ar	أَبْرِيل	April	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-012	ar	مَايُو	May	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-013	ar	يُونْيُو	June	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-014	ar	يُولْيُو	July	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-015	ar	أَغُسْطُس	August	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-016	ar	سِبْتَمْبَر	September	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-017	ar	أُكْتُوبَر	October	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-018	ar	نُوفَمْبَر	November	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-019	ar	دِيسَمْبَر	December	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-020	ar	الرَّبِيع	spring	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-021	ar	الصَّيْف	summer	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-022	ar	الْخَرِيف	autumn	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-023	ar	الشِّتَاء	winter	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-024	ar	أُسْبُوع	week	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-025	ar	شَهْر	month	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-026	ar	سَنَة	year	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-027	ar	عِيد مِيلَاد	birthday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-028	ar	عِيد	holiday	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-029	ar	مَا تَارِيخُ الْيَوْمِ؟	What is today’s date?	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-dates-030	ar	الْيَوْمُ هُوَ الْأَوَّلُ مِنْ مَايُو.	Today is the first of May.	dates.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-01	ar	The definite article al-		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-01-1	ar	الْقَمَر	the moon	grammar.json	Native review of example and provisional transliteration
+ar-grammar-01-2	ar	الشَّمْس	the sun	grammar.json	Native review of example and provisional transliteration
+ar-grammar-01-3	ar	الْكِتَاب	the book	grammar.json	Native review of example and provisional transliteration
+ar-grammar-02	ar	Gender & plurals		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-02-1	ar	كِتَاب، كُتُب	book, books	grammar.json	Native review of example and provisional transliteration
+ar-grammar-02-2	ar	مُعَلِّم، مُعَلِّمُون	teacher, teachers	grammar.json	Native review of example and provisional transliteration
+ar-grammar-02-3	ar	مُعَلِّمَة، مُعَلِّمَات	female teacher, female teachers	grammar.json	Native review of example and provisional transliteration
+ar-grammar-03	ar	Personal & attached pronouns		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-03-1	ar	أَنَا طَالِب.	I am a student.	grammar.json	Native review of example and provisional transliteration
+ar-grammar-03-2	ar	كِتَابِي	my book	grammar.json	Native review of example and provisional transliteration
+ar-grammar-03-3	ar	كِتَابُهَا	her book	grammar.json	Native review of example and provisional transliteration
+ar-grammar-04	ar	Nominal sentences		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-04-1	ar	الْبَيْتُ جَدِيد.	The house is new.	grammar.json	Native review of example and provisional transliteration
+ar-grammar-04-2	ar	الْبَيْتُ الْجَدِيد	the new house	grammar.json	Native review of example and provisional transliteration
+ar-grammar-04-3	ar	أَنَا سَعِيد.	I am happy.	grammar.json	Native review of example and provisional transliteration
+ar-grammar-05	ar	Idafa: belonging together		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-05-1	ar	كِتَابُ الطَّالِبِ	the student’s book	grammar.json	Native review of example and provisional transliteration
+ar-grammar-05-2	ar	بَابُ الْبَيْتِ	the house’s door	grammar.json	Native review of example and provisional transliteration
+ar-grammar-05-3	ar	اِسْمُ الْمَدِينَةِ	the city’s name	grammar.json	Native review of example and provisional transliteration
+ar-grammar-06	ar	Adjective agreement		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-06-1	ar	كِتَاب جَدِيد	a new book	grammar.json	Native review of example and provisional transliteration
+ar-grammar-06-2	ar	سَيَّارَة جَدِيدَة	a new car	grammar.json	Native review of example and provisional transliteration
+ar-grammar-06-3	ar	كُتُب جَدِيدَة	new books	grammar.json	Native review of example and provisional transliteration
+ar-grammar-07	ar	Past tense patterns		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-07-1	ar	كَتَبَ	he wrote	grammar.json	Native review of example and provisional transliteration
+ar-grammar-07-2	ar	كَتَبْتُ	I wrote	grammar.json	Native review of example and provisional transliteration
+ar-grammar-07-3	ar	كَتَبْنَا	we wrote	grammar.json	Native review of example and provisional transliteration
+ar-grammar-08	ar	Present tense patterns		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-08-1	ar	يَكْتُبُ	he writes	grammar.json	Native review of example and provisional transliteration
+ar-grammar-08-2	ar	أَكْتُبُ	I write	grammar.json	Native review of example and provisional transliteration
+ar-grammar-08-3	ar	نَكْتُبُ	we write	grammar.json	Native review of example and provisional transliteration
+ar-grammar-09	ar	Negation		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-09-1	ar	لَا أَفْهَمُ.	I do not understand.	grammar.json	Native review of example and provisional transliteration
+ar-grammar-09-2	ar	مَا ذَهَبَ.	He did not go.	grammar.json	Native review of example and provisional transliteration
+ar-grammar-09-3	ar	لَيْسَ الْبَيْتُ كَبِيرًا.	The house is not big.	grammar.json	Native review of example and provisional transliteration
+ar-grammar-10	ar	Asking questions		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-10-1	ar	أَيْنَ الْبَيْتُ؟	Where is the house?	grammar.json	Native review of example and provisional transliteration
+ar-grammar-10-2	ar	مَنْ هَذَا؟	Who is this?	grammar.json	Native review of example and provisional transliteration
+ar-grammar-10-3	ar	هَلْ تَفْهَمُ؟	Do you understand?	grammar.json	Native review of example and provisional transliteration
+ar-grammar-11	ar	Numbers & counting		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-11-1	ar	كِتَاب وَاحِد	one book	grammar.json	Native review of example and provisional transliteration
+ar-grammar-11-2	ar	ثَلَاثَةُ كُتُبٍ	three books	grammar.json	Native review of example and provisional transliteration
+ar-grammar-11-3	ar	عَشَرَةُ أَيَّامٍ	ten days	grammar.json	Native review of example and provisional transliteration
+ar-grammar-12	ar	The dual		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-12-1	ar	كِتَابَان	two books (nominative)	grammar.json	Native review of example and provisional transliteration
+ar-grammar-12-2	ar	كِتَابَيْن	two books (accusative or genitive)	grammar.json	Native review of example and provisional transliteration
+ar-grammar-12-3	ar	مَدْرَسَتَان	two schools (nominative)	grammar.json	Native review of example and provisional transliteration
+ar-grammar-13	ar	Dates, months & dialects		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-13-1	ar	يَنَايِر	January (Egypt/Gulf)	grammar.json	Native review of example and provisional transliteration
+ar-grammar-13-2	ar	كَانُون الثَّانِي	January (Levant)	grammar.json	Native review of example and provisional transliteration
+ar-grammar-13-3	ar	رَمَضَان	Ramadan (Hijri month)	grammar.json	Native review of example and provisional transliteration
+ar-grammar-14	ar	Vowels & special letters		grammar.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-grammar-14-1	ar	بَ بِ بُ	ba, bi, bu	grammar.json	Native review of example and provisional transliteration
+ar-grammar-14-2	ar	بَاب	door; long aa	grammar.json	Native review of example and provisional transliteration
+ar-grammar-14-3	ar	مَدْرَسَة	school; ta marbuta	grammar.json	Native review of example and provisional transliteration
+ar-greetings-001	ar	مَرْحَبًا	Hello	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-002	ar	صَبَاحُ الْخَيْر	Good morning	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-003	ar	مَسَاءُ الْخَيْر	Good evening	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-004	ar	تُصْبِحُ عَلَى خَيْر	Good night	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-005	ar	إِلَى اللِّقَاء	Goodbye	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-006	ar	مِنْ فَضْلِكَ	Please	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-007	ar	شُكْرًا	Thank you	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-008	ar	عَفْوًا	You’re welcome	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-009	ar	نَعَم	Yes	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-010	ar	لَا	No	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-011	ar	عُذْرًا	Excuse me	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-012	ar	أَنَا آسِف	I’m sorry	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-013	ar	كَيْفَ حَالُكَ؟	How are you?	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-014	ar	أَنَا بِخَيْر.	I’m well.	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-015	ar	مَا اسْمُكَ؟	What is your name?	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-016	ar	اِسْمِي…	My name is…	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-017	ar	تَشَرَّفْتُ بِمَعْرِفَتِكَ.	Nice to meet you.	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-018	ar	أَرَاكَ غَدًا.	See you tomorrow.	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-019	ar	أَهْلًا وَسَهْلًا	Welcome	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-greetings-020	ar	رِحْلَةً سَعِيدَةً!	Have a good trip!	greetings.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-001	ar	رَجُل	man	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-002	ar	اِمْرَأَة	woman	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-003	ar	طِفْل	child	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-004	ar	فَتَاة	girl	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-005	ar	وَلَد	boy	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-006	ar	صَدِيق	friend	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-007	ar	شَخْص	person	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-008	ar	جَار	neighbor	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-009	ar	ضَيْف	guest	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-010	ar	مُعَلِّم	teacher	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-011	ar	أُمّ	mother	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-012	ar	أَب	father	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-013	ar	أَخ	brother	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-014	ar	أُخْت	sister	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-015	ar	اِبْن	son	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-016	ar	بِنْت	daughter	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-017	ar	جَدَّة	grandmother	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-018	ar	جَدّ	grandfather	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-019	ar	زَوْج	husband	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-020	ar	زَوْجَة	wife	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-021	ar	خُبْز	bread	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-022	ar	مَاء	water	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-023	ar	حَلِيب	milk	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-024	ar	قَهْوَة	coffee	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-025	ar	شَاي	tea	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-026	ar	أَرُزّ	rice	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-027	ar	لَحْم	meat	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-028	ar	سَمَك	fish	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-029	ar	دَجَاج	chicken	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-030	ar	بَيْضَة	egg	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-031	ar	تُفَّاحَة	apple	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-032	ar	مَوْزَة	banana	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-033	ar	بُرْتُقَالَة	orange	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-034	ar	لَيْمُونَة	lemon	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-035	ar	بَطَاطَا	potato	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-036	ar	طَمَاطِم	tomato	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-037	ar	بَصَلَة	onion	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-038	ar	جُبْن	cheese	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-039	ar	سُكَّر	sugar	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-040	ar	مِلْح	salt	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-041	ar	قِطّ	cat	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-042	ar	كَلْب	dog	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-043	ar	طَائِر	bird	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-044	ar	حِصَان	horse	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-045	ar	بَقَرَة	cow	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-046	ar	خَرُوف	sheep	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-047	ar	أَسَد	lion	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-048	ar	فِيل	elephant	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-049	ar	أَرْنَب	rabbit	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-050	ar	فَأْر	mouse	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-051	ar	بَيْت	house	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-052	ar	غُرْفَة	room	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-053	ar	بَاب	door	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-054	ar	نَافِذَة	window	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-055	ar	طَاوِلَة	table	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-056	ar	كُرْسِيّ	chair	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-057	ar	سَرِير	bed	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-058	ar	مَطْبَخ	kitchen	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-059	ar	حَمَّام	bathroom	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-060	ar	مِفْتَاح	key	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-061	ar	رَأْس	head	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-062	ar	يَد	hand	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-063	ar	عَيْن	eye	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-064	ar	أُذُن	ear	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-065	ar	أَنْف	nose	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-066	ar	فَم	mouth	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-067	ar	سِنّ	tooth	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-068	ar	قَدَم	foot	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-069	ar	قَلْب	heart	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-070	ar	ظَهْر	back	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-071	ar	قَمِيص	shirt	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-072	ar	مِعْطَف	coat	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-073	ar	فُسْتَان	dress	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-074	ar	حِذَاء	shoe	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-075	ar	قُبَّعَة	hat	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-076	ar	حَقِيبَة	bag	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-077	ar	سَاعَة	watch	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-078	ar	خَاتَم	ring	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-079	ar	جَوْرَب	sock	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-080	ar	تَنُّورَة	skirt	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-081	ar	سَيَّارَة	car	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-082	ar	حَافِلَة	bus	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-083	ar	قِطَار	train	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-084	ar	طَائِرَة	plane	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-085	ar	دَرَّاجَة	bicycle	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-086	ar	قَارِب	boat	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-087	ar	تَذْكِرَة	ticket	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-088	ar	مَحَطَّة	station	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-089	ar	مَطَار	airport	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-090	ar	جَوَاز سَفَر	passport	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-091	ar	مَدِينَة	city	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-092	ar	شَارِع	street	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-093	ar	مَدْرَسَة	school	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-094	ar	جَامِعَة	university	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-095	ar	مُسْتَشْفَى	hospital	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-096	ar	صَيْدَلِيَّة	pharmacy	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-097	ar	فُنْدُق	hotel	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-098	ar	مَطْعَم	restaurant	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-099	ar	مَتْجَر	shop	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-100	ar	بَنْك	bank	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-101	ar	شَجَرَة	tree	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-102	ar	زَهْرَة	flower	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-103	ar	شَمْس	sun	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-104	ar	قَمَر	moon	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-105	ar	نَجْمَة	star	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-106	ar	بَحْر	sea	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-107	ar	نَهْر	river	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-108	ar	جَبَل	mountain	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-109	ar	غَابَة	forest	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-110	ar	حَدِيقَة	garden	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-111	ar	هَاتِف	phone	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-112	ar	حَاسُوب	computer	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-113	ar	شَاشَة	screen	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-114	ar	رِسَالَة	message	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-115	ar	الْإِنْتَرْنِت	internet	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-116	ar	صُورَة	photo	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-117	ar	آلَة تَصْوِير	camera	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-118	ar	بَطَّارِيَّة	battery	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-119	ar	شَاحِن	charger	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-120	ar	كَلِمَة مُرُور	password	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-121	ar	كِتَاب	book	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-122	ar	قَلَم	pen	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-123	ar	وَرَق	paper	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-124	ar	دَفْتَر	notebook	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-125	ar	دَرْس	lesson	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-126	ar	سُؤَال	question	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-127	ar	جَوَاب	answer	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-128	ar	لُغَة	language	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-129	ar	كَلِمَة	word	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-130	ar	اِسْم	name	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-131	ar	مَكْتَب	office	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-132	ar	عَمَل	job	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-133	ar	شَرِكَة	company	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-134	ar	اِجْتِمَاع	meeting	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-135	ar	مَال	money	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-136	ar	سِعْر	price	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-137	ar	سُوق	market	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-138	ar	طَبِيب	doctor	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-139	ar	دَوَاء	medicine	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-140	ar	الشُّرْطَة	police	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-141	ar	مَطَر	rain	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-142	ar	ثَلْج	snow	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-143	ar	رِيح	wind	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-144	ar	سَحَابَة	cloud	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-145	ar	سَمَاء	sky	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-146	ar	فُطُور	breakfast	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-147	ar	غَدَاء	lunch	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-148	ar	عَشَاء	dinner	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-149	ar	عَصِير	juice	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-nouns-150	ar	زَيْت	oil	nouns.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-001	ar	صِفْر	0	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-002	ar	وَاحِد	1	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-003	ar	اِثْنَان	2	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-004	ar	ثَلَاثَة	3	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-005	ar	أَرْبَعَة	4	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-006	ar	خَمْسَة	5	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-007	ar	سِتَّة	6	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-008	ar	سَبْعَة	7	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-009	ar	ثَمَانِيَة	8	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-010	ar	تِسْعَة	9	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-011	ar	عَشَرَة	10	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-012	ar	أَحَدَ عَشَرَ	11	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-013	ar	اِثْنَا عَشَرَ	12	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-014	ar	ثَلَاثَة عَشَرَ	13	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-015	ar	أَرْبَعَة عَشَرَ	14	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-016	ar	خَمْسَة عَشَرَ	15	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-017	ar	سِتَّة عَشَرَ	16	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-018	ar	سَبْعَة عَشَرَ	17	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-019	ar	ثَمَانِيَة عَشَرَ	18	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-020	ar	تِسْعَة عَشَرَ	19	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-021	ar	عِشْرُون	20	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-022	ar	وَاحِد وَعِشْرُون	21	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-023	ar	اِثْنَان وَعِشْرُون	22	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-024	ar	ثَلَاثَة وَعِشْرُون	23	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-025	ar	أَرْبَعَة وَعِشْرُون	24	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-026	ar	خَمْسَة وَعِشْرُون	25	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-027	ar	سِتَّة وَعِشْرُون	26	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-028	ar	سَبْعَة وَعِشْرُون	27	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-029	ar	ثَمَانِيَة وَعِشْرُون	28	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-030	ar	تِسْعَة وَعِشْرُون	29	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-031	ar	ثَلَاثُون	30	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-032	ar	وَاحِد وَثَلَاثُون	31	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-033	ar	اِثْنَان وَثَلَاثُون	32	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-034	ar	ثَلَاثَة وَثَلَاثُون	33	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-035	ar	أَرْبَعَة وَثَلَاثُون	34	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-036	ar	خَمْسَة وَثَلَاثُون	35	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-037	ar	سِتَّة وَثَلَاثُون	36	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-038	ar	سَبْعَة وَثَلَاثُون	37	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-039	ar	ثَمَانِيَة وَثَلَاثُون	38	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-040	ar	تِسْعَة وَثَلَاثُون	39	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-041	ar	أَرْبَعُون	40	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-042	ar	وَاحِد وَأَرْبَعُون	41	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-043	ar	اِثْنَان وَأَرْبَعُون	42	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-044	ar	ثَلَاثَة وَأَرْبَعُون	43	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-045	ar	أَرْبَعَة وَأَرْبَعُون	44	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-046	ar	خَمْسَة وَأَرْبَعُون	45	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-047	ar	سِتَّة وَأَرْبَعُون	46	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-048	ar	سَبْعَة وَأَرْبَعُون	47	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-049	ar	ثَمَانِيَة وَأَرْبَعُون	48	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-050	ar	تِسْعَة وَأَرْبَعُون	49	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-051	ar	خَمْسُون	50	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-052	ar	وَاحِد وَخَمْسُون	51	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-053	ar	اِثْنَان وَخَمْسُون	52	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-054	ar	ثَلَاثَة وَخَمْسُون	53	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-055	ar	أَرْبَعَة وَخَمْسُون	54	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-056	ar	خَمْسَة وَخَمْسُون	55	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-057	ar	سِتَّة وَخَمْسُون	56	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-058	ar	سَبْعَة وَخَمْسُون	57	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-059	ar	ثَمَانِيَة وَخَمْسُون	58	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-060	ar	تِسْعَة وَخَمْسُون	59	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-061	ar	سِتُّون	60	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-062	ar	وَاحِد وَسِتُّون	61	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-063	ar	اِثْنَان وَسِتُّون	62	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-064	ar	ثَلَاثَة وَسِتُّون	63	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-065	ar	أَرْبَعَة وَسِتُّون	64	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-066	ar	خَمْسَة وَسِتُّون	65	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-067	ar	سِتَّة وَسِتُّون	66	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-068	ar	سَبْعَة وَسِتُّون	67	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-069	ar	ثَمَانِيَة وَسِتُّون	68	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-070	ar	تِسْعَة وَسِتُّون	69	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-071	ar	سَبْعُون	70	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-072	ar	وَاحِد وَسَبْعُون	71	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-073	ar	اِثْنَان وَسَبْعُون	72	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-074	ar	ثَلَاثَة وَسَبْعُون	73	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-075	ar	أَرْبَعَة وَسَبْعُون	74	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-076	ar	خَمْسَة وَسَبْعُون	75	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-077	ar	سِتَّة وَسَبْعُون	76	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-078	ar	سَبْعَة وَسَبْعُون	77	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-079	ar	ثَمَانِيَة وَسَبْعُون	78	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-080	ar	تِسْعَة وَسَبْعُون	79	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-081	ar	ثَمَانُون	80	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-082	ar	وَاحِد وَثَمَانُون	81	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-083	ar	اِثْنَان وَثَمَانُون	82	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-084	ar	ثَلَاثَة وَثَمَانُون	83	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-085	ar	أَرْبَعَة وَثَمَانُون	84	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-086	ar	خَمْسَة وَثَمَانُون	85	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-087	ar	سِتَّة وَثَمَانُون	86	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-088	ar	سَبْعَة وَثَمَانُون	87	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-089	ar	ثَمَانِيَة وَثَمَانُون	88	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-090	ar	تِسْعَة وَثَمَانُون	89	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-091	ar	تِسْعُون	90	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-092	ar	وَاحِد وَتِسْعُون	91	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-093	ar	اِثْنَان وَتِسْعُون	92	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-094	ar	ثَلَاثَة وَتِسْعُون	93	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-095	ar	أَرْبَعَة وَتِسْعُون	94	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-096	ar	خَمْسَة وَتِسْعُون	95	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-097	ar	سِتَّة وَتِسْعُون	96	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-098	ar	سَبْعَة وَتِسْعُون	97	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-099	ar	ثَمَانِيَة وَتِسْعُون	98	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-100	ar	تِسْعَة وَتِسْعُون	99	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-101	ar	مِائَة	100	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-102	ar	مِائَتَان	200	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-103	ar	ثَلَاثُمِائَة	300	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-104	ar	خَمْسُمِائَة	500	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-105	ar	أَلْف	1000	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-106	ar	أَلْفَان	2000	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-107	ar	مِلْيُون	1000000	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-108	ar	أَوَّل	first	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-109	ar	ثَانٍ	second	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-110	ar	ثَالِث	third	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-111	ar	رَابِع	fourth	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-112	ar	خَامِس	fifth	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-113	ar	نِصْف	half	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-114	ar	رُبْع	quarter	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-115	ar	ثُلْث	one third	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-116	ar	كَمْ ثَمَنُهُ؟	How much does it cost?	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-117	ar	ثَمَنُهُ عَشَرَةُ يُورُوهَاتٍ.	It costs ten euros.	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-118	ar	رَقْمُ هَاتِفِي هُوَ…	My phone number is…	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-numbers-119	ar	سَنَة أَلْفَيْنِ وَسِتَّةٍ وَعِشْرِينَ	the year 2026	numbers.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-001	ar	هَلْ تَتَكَلَّمُ الْإِنْجِلِيزِيَّةَ؟	Do you speak English?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-002	ar	لَا أَفْهَمُ.	I don’t understand.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-003	ar	كَرِّرْ مِنْ فَضْلِكَ.	Please repeat.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-004	ar	تَكَلَّمْ بِبُطْءٍ مِنْ فَضْلِكَ.	Please speak slowly.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-005	ar	أَنَا أَتَعَلَّمُ الْإِيطَالِيَّةَ.	I’m learning Italian.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-006	ar	أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ.	I’m learning Arabic.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-007	ar	أَحْتَاجُ إِلَى مُسَاعَدَةٍ.	I need help.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-008	ar	النَّجْدَةَ!	Help!	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-009	ar	اِتَّصِلْ بِطَبِيبٍ.	Call a doctor.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-010	ar	اِتَّصِلْ بِالشُّرْطَةِ.	Call the police.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-011	ar	أَنَا تَائِه.	I am lost.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-012	ar	لَا أَشْعُرُ بِخَيْرٍ.	I don’t feel well.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-013	ar	لَدَيَّ حَسَاسِيَّة.	I have an allergy.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-014	ar	أَحْتَاجُ إِلَى مَاءٍ.	I need water.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-015	ar	هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟	Can you help me?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-016	ar	أَيْنَ الْحَمَّامُ؟	Where is the bathroom?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-017	ar	الْحِسَابَ مِنْ فَضْلِكَ.	The bill, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-018	ar	طَاوِلَةً لِشَخْصَيْنِ مِنْ فَضْلِكَ.	A table for two, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-019	ar	قَائِمَةَ الطَّعَامِ مِنْ فَضْلِكَ.	The menu, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-020	ar	بِدُونِ سُكَّرٍ مِنْ فَضْلِكَ.	Without sugar, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-021	ar	أَنَا نَبَاتِيّ.	I am vegetarian.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-022	ar	إِنَّهُ لَذِيذ.	It is delicious.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-023	ar	لَدَيَّ حَجْز.	I have a reservation.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-024	ar	غُرْفَةً وَاحِدَةً مِنْ فَضْلِكَ.	One room, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-025	ar	لِلَيْلَتَيْنِ.	For two nights.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-026	ar	هَلِ الْفَطُورُ مَشْمُولٌ؟	Is breakfast included?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-027	ar	مَا كَلِمَةُ مُرُورِ الْوَايْ فَاي؟	What is the Wi-Fi password?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-028	ar	بِكَمْ هَذَا؟	How much is this?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-029	ar	إِنَّهُ غَالٍ جِدًّا.	It is too expensive.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-030	ar	هَلْ تَقْبَلُونَ الْبِطَاقَاتِ؟	Do you accept cards?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-031	ar	أَنَا أَنْظُرُ فَقَطْ.	I am just looking.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-032	ar	أُرِيدُ هَذَا.	I would like this.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-033	ar	تَذْكِرَةً مِنْ فَضْلِكَ.	A ticket, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-034	ar	مَتَى يُغَادِرُ الْقِطَارُ؟	When does the train leave?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-035	ar	هَلْ هَذَا الْمَقْعَدُ شَاغِرٌ؟	Is this seat free?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-036	ar	تَوَقَّفْ هُنَا مِنْ فَضْلِكَ.	Stop here, please.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-037	ar	اِنْعَطِفْ يَمِينًا.	Turn right.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-038	ar	اِنْعَطِفْ يَسَارًا.	Turn left.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-039	ar	سِرْ إِلَى الْأَمَامِ.	Go straight.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-040	ar	إِنَّهُ قَرِيب.	It is near.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-041	ar	إِنَّهُ بَعِيد.	It is far.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-042	ar	مِنْ أَيْنَ أَنْتَ؟	Where are you from?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-043	ar	أَنَا مِنْ أَمْرِيكَا.	I am from America.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-044	ar	أَنَا أَسْكُنُ هُنَا.	I live here.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-045	ar	مَا عَمَلُكَ؟	What do you do for work?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-046	ar	أَنَا طَالِب.	I am a student.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-047	ar	الْجَوُّ جَمِيل.	The weather is nice.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-048	ar	إِنَّهَا تُمْطِرُ.	It is raining.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-049	ar	الْجَوُّ حَارّ الْيَوْمَ.	It is hot today.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-050	ar	الْجَوُّ بَارِد الْيَوْمَ.	It is cold today.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-051	ar	أَنَا جَائِع.	I am hungry.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-052	ar	أَنَا عَطْشَان.	I am thirsty.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-053	ar	أَنَا مُتْعَب.	I am tired.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-054	ar	أَنَا سَعِيد.	I am happy.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-055	ar	يُعْجِبُنِي.	I like it.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-056	ar	لَا مُشْكِلَةَ.	No problem.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-057	ar	بِالتَّأْكِيدِ.	Of course.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-058	ar	رُبَّمَا.	Maybe.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-059	ar	لَا أَعْرِفُ.	I don’t know.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-060	ar	إِلَى لِقَاءٍ قَرِيبٍ.	See you soon.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-061	ar	أَيْنَ الْسَيَّارَة؟	Where is the car?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-062	ar	أَيْنَ الْحَافِلَة؟	Where is the bus?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-063	ar	أَيْنَ الْقِطَار؟	Where is the train?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-064	ar	أَيْنَ الْطَائِرَة؟	Where is the plane?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-065	ar	أَيْنَ الْدَرَّاجَة؟	Where is the bicycle?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-066	ar	أَيْنَ الْقَارِب؟	Where is the boat?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-067	ar	أَيْنَ الْتَذْكِرَة؟	Where is the ticket?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-068	ar	أَيْنَ الْمَحَطَّة؟	Where is the station?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-069	ar	أَيْنَ الْمَطَار؟	Where is the airport?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-070	ar	أَيْنَ الْجَوَاز سَفَر؟	Where is the passport?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-071	ar	أَيْنَ الْمَدِينَة؟	Where is the city?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-072	ar	أَيْنَ الْشَارِع؟	Where is the street?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-073	ar	أَيْنَ الْمَدْرَسَة؟	Where is the school?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-074	ar	أَيْنَ الْجَامِعَة؟	Where is the university?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-075	ar	أَيْنَ الْمُسْتَشْفَى؟	Where is the hospital?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-076	ar	أَيْنَ الْصَيْدَلِيَّة؟	Where is the pharmacy?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-077	ar	أَيْنَ الْفُنْدُق؟	Where is the hotel?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-078	ar	أَيْنَ الْمَطْعَم؟	Where is the restaurant?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-079	ar	أَيْنَ الْمَتْجَر؟	Where is the shop?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-080	ar	أَيْنَ الْبَنْك؟	Where is the bank?	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-081	ar	أُرِيدُ خُبْز.	I would like bread.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-082	ar	أُرِيدُ مَاء.	I would like water.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-083	ar	أُرِيدُ حَلِيب.	I would like milk.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-084	ar	أُرِيدُ قَهْوَة.	I would like coffee.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-085	ar	أُرِيدُ شَاي.	I would like tea.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-086	ar	أُرِيدُ أَرُزّ.	I would like rice.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-087	ar	أُرِيدُ لَحْم.	I would like meat.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-088	ar	أُرِيدُ سَمَك.	I would like fish.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-089	ar	أُرِيدُ دَجَاج.	I would like chicken.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-090	ar	أُرِيدُ بَيْضَة.	I would like egg.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-091	ar	أُرِيدُ تُفَّاحَة.	I would like apple.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-092	ar	أُرِيدُ مَوْزَة.	I would like banana.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-093	ar	أُرِيدُ بُرْتُقَالَة.	I would like orange.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-094	ar	أُرِيدُ لَيْمُونَة.	I would like lemon.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-095	ar	أُرِيدُ بَطَاطَا.	I would like potato.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-096	ar	أُرِيدُ طَمَاطِم.	I would like tomato.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-097	ar	أُرِيدُ بَصَلَة.	I would like onion.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-098	ar	أُرِيدُ جُبْن.	I would like cheese.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-099	ar	أُرِيدُ سُكَّر.	I would like sugar.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-phrases-100	ar	أُرِيدُ مِلْح.	I would like salt.	phrases.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-001	ar	الْيَوْم	today	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-002	ar	غَدًا	tomorrow	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-003	ar	أَمْس	yesterday	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-004	ar	الْآن	now	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-005	ar	لَاحِقًا	later	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-006	ar	قَرِيبًا	soon	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-007	ar	الصَّبَاح	morning	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-008	ar	بَعْدَ الظُّهْر	afternoon	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-009	ar	الْمَسَاء	evening	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-010	ar	اللَّيْل	night	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-011	ar	سَاعَة	hour	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-012	ar	دَقِيقَة	minute	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-013	ar	ثَانِيَة	second (time)	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-014	ar	كَمِ السَّاعَةُ؟	What time is it?	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-015	ar	السَّاعَةُ الْوَاحِدَةُ.	It is one o’clock.	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-016	ar	السَّاعَةُ الثَّانِيَةُ.	It is two o’clock.	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-017	ar	السَّاعَةُ الثَّالِثَةُ وَالنِّصْفُ.	It is half past three.	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-018	ar	السَّاعَةُ الرَّابِعَةُ إِلَّا رُبْعًا.	It is quarter to four.	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-019	ar	لِعَشْرِ دَقَائِقَ	for ten minutes	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-time-020	ar	كُلَّ يَوْم	every day	time.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-001	ar	كَانَ	be	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-002	ar	مَلَكَ	have	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-003	ar	فَعَلَ	do	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-004	ar	ذَهَبَ	go	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-005	ar	جَاءَ	come	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-006	ar	قَالَ	say	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-007	ar	تَكَلَّمَ	speak	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-008	ar	أَكَلَ	eat	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-009	ar	شَرِبَ	drink	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-010	ar	نَامَ	sleep	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-011	ar	قَرَأَ	read	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-012	ar	كَتَبَ	write	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-013	ar	اِسْتَمَعَ	listen	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-014	ar	سَمِعَ	hear	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-015	ar	رَأَى	see	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-016	ar	نَظَرَ	look	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-017	ar	عَرَفَ	know (a fact)	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-018	ar	فَهِمَ	understand	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-019	ar	تَعَلَّمَ	learn	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-020	ar	عَلَّمَ	teach	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-021	ar	عَمِلَ	work	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-022	ar	دَرَسَ	study	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-023	ar	لَعِبَ	play	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-024	ar	مَشَى	walk	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-025	ar	رَكَضَ	run	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-026	ar	سَافَرَ	travel	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-027	ar	اِشْتَرَى	buy	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-028	ar	بَاعَ	sell	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-029	ar	دَفَعَ	pay	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-030	ar	فَتَحَ	open	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-031	ar	أَغْلَقَ	close	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-032	ar	بَدَأَ	start	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-033	ar	اِنْتَهَى	finish	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-034	ar	أَرَادَ	want	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-035	ar	اِسْتَطَاعَ	be able	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-036	ar	اِحْتَاجَ	need	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-037	ar	أَعْجَبَ	like	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-038	ar	أَحَبَّ	love	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-039	ar	سَاعَدَ	help	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-040	ar	أَعْطَى	give	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-041	ar	أَخَذَ	take	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-042	ar	أَحْضَرَ	bring	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-043	ar	وَضَعَ	put	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-044	ar	وَجَدَ	find	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-045	ar	بَحَثَ	search	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-046	ar	اِنْتَظَرَ	wait	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-047	ar	بَقِيَ	stay	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-048	ar	عَاشَ	live	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-049	ar	جَلَسَ	sit	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-050	ar	وَقَفَ	stand	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-051	ar	غَسَلَ	wash	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-052	ar	طَبَخَ	cook	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-053	ar	نَظَّفَ	clean	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-054	ar	لَبِسَ	wear	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-055	ar	تَذَكَّرَ	remember	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-056	ar	نَسِيَ	forget	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-057	ar	سَأَلَ	ask	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-058	ar	أَجَابَ	answer	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-059	ar	فَكَّرَ	think	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness
+ar-verbs-060	ar	رَجَعَ	return	verbs.json	Check Arabic vowels, transliteration, grammar, morphology, and naturalness

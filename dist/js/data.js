@@ -1,0 +1,7 @@
+const cache=new Map();
+export async function json(path){if(!cache.has(path))cache.set(path,fetch(path).then(r=>{if(!r.ok)throw Error(`Could not load ${path}. Reconnect once to download the study library.`);return r.json();}).catch(e=>{cache.delete(path);throw e;}));return cache.get(path);}
+export const languages=()=>json('data/languages.json');
+export async function category(code,name){const rows=await json(`data/${code}/${name}.json`);if(typeof rows[0]==='string'){const all=await allItems(code);return rows.map(id=>all.find(x=>x.id===id)).filter(Boolean);}return rows;}
+export async function allItems(code){const names=await json(`data/${code}/index.json`);const groups=await Promise.all(names.map(n=>json(`data/${code}/${n}.json`)));return groups.flat().filter(x=>typeof x==='object');}
+export const units=[['basics','The first little words','🌱'],['greetings','Hello, new world','👋'],['numbers','Make it count','🔢'],['time','A moment in time','🕰'],['dates','Days worth remembering','📆'],['colors','A world of color','🎨'],['family','Your people','🏡'],['food','A taste of the language','🍋'],['travel','The journey begins','🧳'],['shopping','Find something lovely','🛍'],['directions','Find your way','🧭'],['work','Work & school','✏️'],['health','Take good care','🩺'],['weather','Rain or shine','⛅'],['verbs','Put words into motion','⚡'],['adjectives','A little more detail','✨'],['phrases','Everyday connections','💬']];
+export function label(s){return s.replace(/-/g,' ').replace(/^./,c=>c.toUpperCase());}

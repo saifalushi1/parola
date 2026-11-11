@@ -1,0 +1,1 @@
+{"name":"parola","private":true,"type":"module","scripts":{"test":"node tests/core.mjs","start":"python -m http.server 4173 --directory dist"}}
